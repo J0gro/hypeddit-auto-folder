@@ -20,5 +20,8 @@ The easiest way to use this script is as a **Bookmarklet**:
 ## 💻 Console Output
 When running the script, you can open your browser's developer console (`F12`). There, you'll see a live log of which song is currently being processed, along with a clear error table at the end if any songs could not be assigned.
 
+## 📊 On-Screen Summary
+You don't need any technical knowledge to use this tool! Once the script finishes processing your playlist, a stylish pop-up will appear directly on your screen. It will show you exactly how many songs were successfully saved and give you a clear list of any tracks that might have failed (e.g., if a track was deleted or geo-blocked).
+
 ## 📄 License
 MIT License - Feel free to use and modify the code!
