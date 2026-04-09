@@ -15,7 +15,7 @@ Am einfachsten nutzt du dieses Script als **Lesezeichen (Bookmarklet)**:
 4. Füge den gesamten Code in das Feld **URL** (oder Webadresse) deines Lesezeichens ein und speichere es.
 5. Erstelle deinen Hypeedit Bypasser Ordner in denen du die Songs speichern möchtest. Den Namen brauchst du später!
 6. **Los geht's:** Öffne deine SoundCloud-Playlist, scrolle einmal ganz nach unten (damit alle Songs geladen sind) und klicke auf dein neues Lesezeichen!
-7. Es erscheint ein Pop-up, das dich nach dem Zielordner fragt. Tippe ihn ein und lass das Script arbeiten.
+7. Es erscheint ein Pop-up, das dich nach dem Zielordner fragt. Tippe ihn ein und lass das Script arbeiten. Falls du keinen Ordner angibst werden deine Songs im Standartordner "Likes" abgespeichert. 
 
 ## 💻 Blick in die Konsole
 Wenn du das Script ausführst, kannst du die Entwicklerkonsole (`F12`) deines Browsers öffnen. Dort siehst du einen Live-Log, welcher Song gerade verarbeitet wird, und am Ende eine übersichtliche Fehler-Tabelle, falls Songs nicht zugewiesen werden konnten.
