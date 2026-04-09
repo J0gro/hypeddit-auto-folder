@@ -1,0 +1,1 @@
+# hypeddit-auto-folder
